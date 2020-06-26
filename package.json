@@ -63,7 +63,7 @@
     "webpack-node-externals": "1.7.2"
   },
   "dependencies": {
-    "d3-array": "2.2.0",
+    "d3-array": "2.4.0",
     "d3-timer": "1.0.9",
     "istanbul-instrumenter-loader": "3.0.1",
     "lodash-es": "4.17.15",
