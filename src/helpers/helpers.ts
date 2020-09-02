@@ -30,17 +30,10 @@ import range from "lodash-es/range";
 import includes from "lodash-es/includes";
 
 function each(element: JQuery | HTMLElement, fn: (i: number, el: HTMLElement) => any) {
-<<<<<<< HEAD
     if (element instanceof HTMLElement) {
         fn(0, element as HTMLElement);
     } else {
         (element as JQuery).each(fn);
-=======
-    if (element instanceof jQuery) {
-        (element as JQuery).each(fn);
-    } else {
-        fn(0, element as HTMLElement);
->>>>>>> 98281f884e978d295f58b1670e76cc49bdb85b11
     }
 }
 
