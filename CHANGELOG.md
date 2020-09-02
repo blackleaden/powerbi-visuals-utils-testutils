@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 ## 2.3.2
 * jQuery object usage removed
 
+=======
+>>>>>>> 98281f884e978d295f58b1670e76cc49bdb85b11
 ## 2.3.1
 * JQuery.each bugfix
 
