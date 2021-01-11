@@ -66,7 +66,7 @@
     "d3-array": "2.7.1",
     "d3-timer": "2.0.0",
     "istanbul-instrumenter-loader": "3.0.1",
-    "lodash-es": "4.17.15",
+    "lodash-es": "4.17.20",
     "uuidv4": "^6.2.3"
   },
   "snyk": true
